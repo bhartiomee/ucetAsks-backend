@@ -8,4 +8,4 @@ Prerequistes:Need node.js version 14 or above to be installed(Follow: https://no
 
 # to run the project
 1. go to terminal-->new terminal
-2. type `nodmeon index.js`
+2. type `nodemon index.js`
